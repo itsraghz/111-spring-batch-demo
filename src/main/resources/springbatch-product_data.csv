@@ -1,0 +1,101 @@
+ProductId,Title,Description,Price,Discount
+1,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,971.18,37
+2,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,423.21,31
+3,Wireless Mouse,Ergonomic wireless mouse with 2.4 GHz connection,841.2,9
+4,Power Bank,"10,000 mAh power bank with fast charging support",260.46,25
+5,Phone Screen Protector,Tempered glass protector for smartphones,619.77,36
+6,HDMI Cable,6-feet high-speed HDMI cable with gold connectors,446.38,39
+7,USB-C Hub,"7-in-1 USB-C hub with HDMI, SD, and USB ports",776.04,29
+8,Smart Door Lock,Fingerprint smart lock with remote access,690.91,31
+9,Bluetooth Keyboard,Ultra-slim Bluetooth keyboard for tablets,724.68,26
+10,Laptop Cooling Pad,Silent cooling pad for laptops with dual fans,194.28,43
+11,HDMI Cable,6-feet high-speed HDMI cable with gold connectors,162.15,13
+12,USB-C Hub,"7-in-1 USB-C hub with HDMI, SD, and USB ports",49.77,22
+13,Bluetooth Keyboard,Ultra-slim Bluetooth keyboard for tablets,805.77,35
+14,Tablet Cover,Protective cover for 10-inch tablets,357.18,34
+15,Wireless Earbuds,True wireless earbuds with noise reduction,373.48,37
+16,Wireless Charger,Fast wireless charger for Qi-enabled devices,108.75,49
+17,Smart Door Lock,Fingerprint smart lock with remote access,115.36,11
+18,Smart Door Lock,Fingerprint smart lock with remote access,18.07,44
+19,Wireless Mouse,Ergonomic wireless mouse with 2.4 GHz connection,955.46,31
+20,Fitness Tracker,Waterproof fitness tracker with heart rate monitor,664.97,18
+21,Smart Door Lock,Fingerprint smart lock with remote access,538.94,41
+22,Gaming Mouse,Wired gaming mouse with customizable DPI,687.35,26
+23,Bluetooth Keyboard,Ultra-slim Bluetooth keyboard for tablets,962.45,8
+24,Smart Door Lock,Fingerprint smart lock with remote access,667.73,29
+25,Bluetooth Keyboard,Ultra-slim Bluetooth keyboard for tablets,104.08,15
+26,Tablet Cover,Protective cover for 10-inch tablets,775.48,50
+27,HDMI Cable,6-feet high-speed HDMI cable with gold connectors,702.54,20
+28,VR Headset,Virtual reality headset compatible with most phones,621.35,43
+29,Smart Door Lock,Fingerprint smart lock with remote access,242.61,47
+30,Wireless Charger,Fast wireless charger for Qi-enabled devices,845.62,46
+31,Smartphone Stand,Adjustable stand compatible with all phones,160.14,39
+32,Fitness Tracker,Waterproof fitness tracker with heart rate monitor,322.47,7
+33,Wireless Charger,Fast wireless charger for Qi-enabled devices,557.28,8
+34,Smartphone Stand,Adjustable stand compatible with all phones,375.97,38
+35,Wireless Mouse,Ergonomic wireless mouse with 2.4 GHz connection,390.53,27
+36,Smartphone Stand,Adjustable stand compatible with all phones,721.43,16
+37,Smartphone Stand,Adjustable stand compatible with all phones,622.93,10
+38,Phone Screen Protector,Tempered glass protector for smartphones,877.21,5
+39,Laptop Cooling Pad,Silent cooling pad for laptops with dual fans,529.13,26
+40,Portable Projector,HD portable projector with HDMI input,761.41,22
+41,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,265.19,11
+42,Tablet Cover,Protective cover for 10-inch tablets,740.55,19
+43,Smart Door Lock,Fingerprint smart lock with remote access,124.22,19
+44,VR Headset,Virtual reality headset compatible with most phones,776.72,9
+45,Laptop Cooling Pad,Silent cooling pad for laptops with dual fans,996.09,13
+46,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,931.74,39
+47,VR Headset,Virtual reality headset compatible with most phones,58.01,5
+48,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,586.17,9
+49,Portable Projector,HD portable projector with HDMI input,441.99,16
+50,Phone Screen Protector,Tempered glass protector for smartphones,590.49,41
+51,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,635.99,40
+52,Mechanical Keyboard,RGB mechanical keyboard with blue switches,743.99,40
+53,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,964.38,23
+54,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,140.82,36
+55,Smart Door Lock,Fingerprint smart lock with remote access,747.17,24
+56,Phone Screen Protector,Tempered glass protector for smartphones,238.53,38
+57,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,773.32,8
+58,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,120.66,32
+59,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,245.32,24
+60,Smart Door Lock,Fingerprint smart lock with remote access,750.65,31
+61,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,691.97,49
+62,Smartphone Stand,Adjustable stand compatible with all phones,104.18,45
+63,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,625.61,32
+64,Wireless Earbuds,True wireless earbuds with noise reduction,30.2,30
+65,Wireless Earbuds,True wireless earbuds with noise reduction,534.01,23
+66,Smartphone Stand,Adjustable stand compatible with all phones,241.2,30
+67,HDMI Cable,6-feet high-speed HDMI cable with gold connectors,485.54,5
+68,Wireless Mouse,Ergonomic wireless mouse with 2.4 GHz connection,189.82,5
+69,Fitness Tracker,Waterproof fitness tracker with heart rate monitor,416.27,37
+70,Fitness Tracker,Waterproof fitness tracker with heart rate monitor,982.88,17
+71,VR Headset,Virtual reality headset compatible with most phones,615.03,20
+72,VR Headset,Virtual reality headset compatible with most phones,337.71,17
+73,USB-C Hub,"7-in-1 USB-C hub with HDMI, SD, and USB ports",175.64,32
+74,VR Headset,Virtual reality headset compatible with most phones,893.44,30
+75,Wireless Charger,Fast wireless charger for Qi-enabled devices,185.65,49
+76,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,804.11,5
+77,Wireless Charger,Fast wireless charger for Qi-enabled devices,300.01,13
+78,Bluetooth Keyboard,Ultra-slim Bluetooth keyboard for tablets,285.17,24
+79,Wireless Charger,Fast wireless charger for Qi-enabled devices,675.2,12
+80,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,118.16,26
+81,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,234.57,29
+82,HDMI Cable,6-feet high-speed HDMI cable with gold connectors,137.44,11
+83,VR Headset,Virtual reality headset compatible with most phones,731.98,43
+84,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,205.18,13
+85,Laptop Cooling Pad,Silent cooling pad for laptops with dual fans,968.0,25
+86,Wireless Charger,Fast wireless charger for Qi-enabled devices,591.12,35
+87,VR Headset,Virtual reality headset compatible with most phones,498.47,35
+88,VR Headset,Virtual reality headset compatible with most phones,749.4,28
+89,Noise Cancelling Headphones,Active noise-cancelling over-ear headphones,869.09,38
+90,USB-C Hub,"7-in-1 USB-C hub with HDMI, SD, and USB ports",370.5,26
+91,USB-C Hub,"7-in-1 USB-C hub with HDMI, SD, and USB ports",104.12,24
+92,Wireless Earbuds,True wireless earbuds with noise reduction,945.07,46
+93,Bluetooth Keyboard,Ultra-slim Bluetooth keyboard for tablets,203.3,41
+94,Bluetooth Speaker,Portable Bluetooth speaker with deep bass,969.69,44
+95,Phone Screen Protector,Tempered glass protector for smartphones,162.92,24
+96,Wireless Charger,Fast wireless charger for Qi-enabled devices,371.6,38
+97,Smart Light Bulb,Wi-Fi enabled LED bulb with color control,93.45,40
+98,VR Headset,Virtual reality headset compatible with most phones,851.27,22
+99,Tablet Cover,Protective cover for 10-inch tablets,174.66,39
+100,VR Headset,Virtual reality headset compatible with most phones,148.97,30
